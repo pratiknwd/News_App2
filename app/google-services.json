@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "430169154733",
+    "firebase_url": "https://inshorts-5ea9b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "inshorts-5ea9b",
+    "storage_bucket": "inshorts-5ea9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430169154733:android:457604f8c29dec64a2d224",
+        "android_client_info": {
+          "package_name": "com.example.inshorts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGSNfnXx6mMQq5ybspFWi0no_QB0snhyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430169154733:android:0014920eb46e8005a2d224",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGSNfnXx6mMQq5ybspFWi0no_QB0snhyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
